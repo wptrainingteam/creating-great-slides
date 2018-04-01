@@ -68,75 +68,75 @@ Used in the right way, slides emphasize and help you get your points across.
 
 Let's look at some tips for creating good slide decks. 
 
-![](/images/speaker-slides-2.png)
+![](/images/speaker-slides-have-a-theme.png)
 
 Give your slides a theme. It could be that you illustrate all your points with lolcats, or that they all use the same background and typography. Whatever it is, having a visually unified deck makes all the difference. 
 
 Many speakers end up with a look to their slides that they stick with from presentation to presentation This is great and makes their talks stand out and feel part of a cohesive set. It may not be the route you want to go, but it's something to consider. 
 
-![](/images/speaker-slides-3.png) 
+![](/images/speaker-slides-default-theme.png) 
 
 Don’t use a default slideshow theme, like the templates that come with Keynote or Powerpoint. We've all seen them a thousand times, and they look generic and boring. 
 
-![](/images/speaker-slides-4-300x225.png) 
+![](/images/speaker-slides-dont-write-out.png) 
 
 _(Say this one exactly as below to emphasize the point)_ 
 
 Don't write out what you are going to be saying. This can be a flexible rule for useful, important quotes but nobody likes someone reading lines from a slide. 
 
-![](/images/speaker-slides-5.png) 
+![](/images/speaker-slides-text-size.png) 
 
 Make your text size readable. Think of the person sitting at the back of the room. 
 
-![](/images/speaker-slides-6.png) 
+![](/images/speaker-slides-limit-code.png) 
 
 Use code sparingly. Nobody likes pages and pages of code on a screen. Not even developers can stay awake through that! 
 
-![](/images/speaker-slides-7.png) 
+![](/images/speaker-slides-thank-you.png) 
 
 Include a slide at the end of your deck to thank your audience. You can also use a closing slide to remind you to do your Q&A. 
 
-![](/images/speaker-slides-8.png) 
+![](/images/speaker-slides-add-humor.png) 
 
 Enhance the mood of your talk with slides. Use them to add humor and to help get your point across. 
 
-![](/images/speaker-slides-9.png) 
+![](/images/speaker-slides-check-copyright.png) 
 
 Check the copyright on your images. If you're using a Creative Commons graphic, remember to give proper attribution to its creator. 
 
-![](/images/speaker-slides-10.png) 
+![](/images/speaker-slides-original-sketch.png) 
 
 Consider sketching something original, creating your own images, or using your own photography. Make it personal and unique. 
 
-![](/images/speaker-slides-11.png) 
+![](/images/speaker-slides-just-words.png) 
 
 Slides don't need images. You can just have words. 
 
-![](/images/speaker-slides-12.png) 
+![](/images/speaker-slides-check-contrast.png) 
 
 Check your contrast on a range of screens to make sure it'll be legible. 
 
-![](/images/speaker-slides-13.png)
+![](/images/speaker-slides-check-colors.png)
 
 Also consider your choice of color. You can check color contrast using an online tool to be sure it'll be easily readable - you just plug in your background and foreground color codes and the tool will tell you if it's in the acceptable range. 
 
-![](/images/speaker-slides-14.png) 
+![](/images/speaker-slides-fancy-fonts.png) 
 
 Take care when selecting fonts. Don’t use a fancy font that's cute but unreadable – and don't use too many different fonts together. 
 
-![](/images/speaker-slides-15.png) 
+![](/images/speaker-slides-screen-size.png) 
 
 Make sure you're creating your slides for the right screen size. Try to find out in advance what aspect ratio the projector will have. Stay away from edges of the screen to be safe, keeping key information out of those areas. Now let's look at a few examples from real slide decks. 
 
-![](/images/speaker-slides-16.png) 
+![](/images/speaker-slides-set-mood.png) 
 
 This is a good example of a slide that sets the mood of the whole presentation. The deck supports the presentation and acts not just as useful information, but as a backdrop, to help create a cohesive talk. 
 
-![](/images/speaker-slides-17.png) 
+![](/images/speaker-slides-stands-on-own.png) 
 
 This is a deck that stands on its own, either with or without the verbal part of the presentation. It carries a theme throughout the slides and delivers the message with clarity. It also demonstrates a strong personality, something you shouldn’t shy away from with your deck. 
 
-![](/images/speaker-slides-18.png) 
+![](/images/speaker-slides-strong-design.png) 
 
 This deck has strong sense of design. It clearly delivers the message of an expansive subject area. Slides are used to break down this complexity, and it's all done with a clear vision and a deck that stands on its own, apart from the talk. You'll find a collection of more tips on creating great slides - and other resources - at [getspeak.in](http://getspeak.in). There are links to contrast calculators and examples of inspirational slide decks that you can explore at your leisure.
 
