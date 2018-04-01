@@ -68,73 +68,75 @@ Used in the right way, slides emphasize and help you get your points across.
 
 Let's look at some tips for creating good slide decks. 
 
-[![image08](https://make.wordpress.org/training/files/2017/08/speaker-slides-2.png)](https://make.wordpress.org/training/files/2017/08/speaker-slides-2.png) Give your slides a theme. It could be that you illustrate all your points with lolcats, or that they all use the same background and typography. Whatever it is, having a visually unified deck makes all the difference. 
+![](/images/speaker-slides-2.png)
+
+Give your slides a theme. It could be that you illustrate all your points with lolcats, or that they all use the same background and typography. Whatever it is, having a visually unified deck makes all the difference. 
 
 Many speakers end up with a look to their slides that they stick with from presentation to presentation This is great and makes their talks stand out and feel part of a cohesive set. It may not be the route you want to go, but it's something to consider. 
 
-[![image10](https://make.wordpress.org/training/files/2017/08/speaker-slides-3.png)](https://make.wordpress.org/training/files/2017/08/speaker-slides-3.png) 
+![](/images/speaker-slides-3.png) 
 
 Don’t use a default slideshow theme, like the templates that come with Keynote or Powerpoint. We've all seen them a thousand times, and they look generic and boring. 
 
-[![](https://make.wordpress.org/training/files/2017/08/speaker-slides-4-300x225.png)](https://make.wordpress.org/training/files/2017/08/speaker-slides-4.png) 
+![](/images/speaker-slides-4-300x225.png) 
 
 _(Say this one exactly as below to emphasize the point)_ 
 
 Don't write out what you are going to be saying. This can be a flexible rule for useful, important quotes but nobody likes someone reading lines from a slide. 
 
-[![image02](https://make.wordpress.org/training/files/2017/08/speaker-slides-5.png)](https://make.wordpress.org/training/files/2017/08/speaker-slides-5.png) 
+![](/images/speaker-slides-5.png) 
 
 Make your text size readable. Think of the person sitting at the back of the room. 
 
-[![image12](https://make.wordpress.org/training/files/2017/08/speaker-slides-6.png)](https://make.wordpress.org/training/files/2017/08/speaker-slides-6.png) 
+![](/images/speaker-slides-6.png) 
 
 Use code sparingly. Nobody likes pages and pages of code on a screen. Not even developers can stay awake through that! 
 
-[![image09](https://make.wordpress.org/training/files/2017/08/speaker-slides-7.png)](https://make.wordpress.org/training/files/2017/08/speaker-slides-7.png) 
+![](/images/speaker-slides-7.png) 
 
 Include a slide at the end of your deck to thank your audience. You can also use a closing slide to remind you to do your Q&A. 
 
-[![image11](https://make.wordpress.org/training/files/2017/08/speaker-slides-8.png)](https://make.wordpress.org/training/files/2017/08/speaker-slides-8.png) 
+![](/images/speaker-slides-8.png) 
 
 Enhance the mood of your talk with slides. Use them to add humor and to help get your point across. 
 
-[![image03](https://make.wordpress.org/training/files/2017/08/speaker-slides-9.png)](https://make.wordpress.org/training/files/2017/08/speaker-slides-9.png) 
+![](/images/speaker-slides-9.png) 
 
 Check the copyright on your images. If you're using a Creative Commons graphic, remember to give proper attribution to its creator. 
 
-[![image15](https://make.wordpress.org/training/files/2017/08/speaker-slides-10.png)](https://make.wordpress.org/training/files/2017/08/speaker-slides-10.png) 
+![](/images/speaker-slides-10.png) 
 
 Consider sketching something original, creating your own images, or using your own photography. Make it personal and unique. 
 
-[![image07](https://make.wordpress.org/training/files/2017/08/speaker-slides-11.png)](https://make.wordpress.org/training/files/2017/08/speaker-slides-11.png) 
+![](/images/speaker-slides-11.png) 
 
 Slides don't need images. You can just have words. 
 
-[![image16](https://make.wordpress.org/training/files/2017/08/speaker-slides-12.png)](https://make.wordpress.org/training/files/2017/08/speaker-slides-12.png) 
+![](/images/speaker-slides-12.png) 
 
 Check your contrast on a range of screens to make sure it'll be legible. 
 
-[![image06](https://make.wordpress.org/training/files/2017/08/speaker-slides-13.png)](https://make.wordpress.org/training/files/2017/08/speaker-slides-13.png) 
+![](/images/speaker-slides-13.png)
 
 Also consider your choice of color. You can check color contrast using an online tool to be sure it'll be easily readable - you just plug in your background and foreground color codes and the tool will tell you if it's in the acceptable range. 
 
-[![image17](https://make.wordpress.org/training/files/2017/08/speaker-slides-14.png)](https://make.wordpress.org/training/files/2017/08/speaker-slides-14.png) 
+![](/images/speaker-slides-14.png) 
 
 Take care when selecting fonts. Don’t use a fancy font that's cute but unreadable – and don't use too many different fonts together. 
 
-[![image00](https://make.wordpress.org/training/files/2017/08/speaker-slides-15.png)](https://make.wordpress.org/training/files/2017/08/speaker-slides-15.png) 
+![](/images/speaker-slides-15.png) 
 
 Make sure you're creating your slides for the right screen size. Try to find out in advance what aspect ratio the projector will have. Stay away from edges of the screen to be safe, keeping key information out of those areas. Now let's look at a few examples from real slide decks. 
 
-[![image01](https://make.wordpress.org/training/files/2017/08/speaker-slides-16.png)](https://make.wordpress.org/training/files/2017/08/speaker-slides-16.png) 
+![](/images/speaker-slides-16.png) 
 
 This is a good example of a slide that sets the mood of the whole presentation. The deck supports the presentation and acts not just as useful information, but as a backdrop, to help create a cohesive talk. 
 
-[![image14](https://make.wordpress.org/training/files/2017/08/speaker-slides-17.png)](https://make.wordpress.org/training/files/2017/08/speaker-slides-17.png) 
+![](/images/speaker-slides-17.png) 
 
 This is a deck that stands on its own, either with or without the verbal part of the presentation. It carries a theme throughout the slides and delivers the message with clarity. It also demonstrates a strong personality, something you shouldn’t shy away from with your deck. 
 
-[![image04](https://make.wordpress.org/training/files/2017/08/speaker-slides-18.png)](https://make.wordpress.org/training/files/2017/08/speaker-slides-18.png) 
+![](/images/speaker-slides-18.png) 
 
 This deck has strong sense of design. It clearly delivers the message of an expansive subject area. Slides are used to break down this complexity, and it's all done with a clear vision and a deck that stands on its own, apart from the talk. You'll find a collection of more tips on creating great slides - and other resources - at [getspeak.in](http://getspeak.in). There are links to contrast calculators and examples of inspirational slide decks that you can explore at your leisure.
 
