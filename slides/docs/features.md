@@ -391,7 +391,7 @@ You can also combine classes for location in corners:
 
 #### Notes
 
-When neccessary to add some notes for slide, you may use `footer` class, that hide your notes at all time and show them when you hover to slide:
+When necessary to add some notes for slide, you may use `footer` class, that hide your notes at all time and show them when you hover to slide:
 
 	<section class="slide">
 		<p>Retro meh brunch aesthetic.</p>
